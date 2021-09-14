@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/speaker.json",
             "label": "Speaker"
           }
@@ -42,8 +48,6 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://jmu.illumira.net/show.php?pid=njcore:187991",
-                  "type": "Sound",
-                  "format": "audio/m4a",
                     "duration": 3599
                 },
                 "target": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas"
