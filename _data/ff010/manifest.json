@@ -22,13 +22,19 @@
       {
         "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 3599,
+        "duration": 3594,
         "annotations": [
           
           {
             "type": "AnnotationPage",
             "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/environment.json",
             "label": "Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
           }
           ,
           {
@@ -50,7 +56,7 @@
                   "id": "https://dl.dropboxusercontent.com/s/0pzzk1cgl77a8l2/FF010.mp3?raw=1",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 3599
+                    "duration": 3594
                 },
                 "target": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas"
               }
