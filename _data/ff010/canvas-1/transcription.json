@@ -315,7 +315,7 @@
         "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "314.269016"
+          "t": "314.269016,332.992934"
         }
       }
     },
@@ -924,7 +924,7 @@
         "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "693.232524"
+          "t": "693.232524,695.232524"
         }
       }
     },
