@@ -1,0 +1,1268 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "--terms of testifying. So part of what we will do today, is for you all to testify to what you know, about Furious Flower, how many ways youve entered this whole phenomenon  thats called Furious Flower. So thats how were going to involve all the voices in this room.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,28.869147"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And the subtext, I think, for this workshop for this seminar is... you will teach what you know. Isnt that the, isnt that the reason we are doing this legacy? I started calling this this legacy seminar.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29.465926,51.584019"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Because if we learn about Sonia Sanchezs work, and we are comfortable with it -- we appreciate it -- we will teach it. The reason Sonia in 1965, had to mimeograph Black authors is that there were no texts for these authors when she taught at San Francisco State.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "52.031603,83.343811"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ive heard you tell that story many times. And um, but, she realized when she started, that these authors must be taught. And the only way that they were going to be taught is that she was going to teach them. And then she realized that if she didnt start a Black Studies program, that when she left, it would be like a black hole again.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "84.052485,112.623244"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So, I really believe that you teach what you know. And when I came to James Madison University, in 1985, I was the first African American to be hired in the department.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113.220022,137.781176"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now, I didnt learn until later that there was great resentment about my hiring. And Azadi, you had a, a laugh of recognition there. Its like you had a little white handkerchief and you said: I know what you talkin about.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138.5085,155.665874"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And thats how it was, for so many black women and men coming into academe in the late 70s and 80s. In fact, I was sharing with Sonia and Azadi and Becky at lunch,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "156.486444,176.36662"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "that when my first departmental meeting, and Id been I was at JMU for just a week, maybe two weeks at the most. I go into the meeting, and I get there early, so that people will know that Im going to be a functioning part of this department.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "176.935424,204.387223"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I come in and take my seat in the second to the last row. And in comes this man, my colleagues, smelling of cigarette smoke, and bourbon. He just happened to be the Southern Literature specialist.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "205.534156,227.77347"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ill never forget his name, David Holman. Ill put it out there. Ill put it out there, because, you know, lets call a spade a spade. So Im sitting there waiting for the meeting to begin. He comes in trailing faculty members.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "229.218792,250.618887"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And he comes and sits behind me. And he says to them, come on back here to the Jim Crow section.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "251.448782,260.642897"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Say What year it was again.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "264.959809,266.442835"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That was 1985 DaMaris. Come on back in the Jim Crow section. So I, I was there as a Commonwealth visiting professor, my husband and I were deciding whether we were going to stay. So we had a year to decide and Im now here for only two weeks. My husbands having a great experience.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.461485,290.425861"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I bit my lip and I said, oh my god, what have I come into? ...Well... the meeting was about to begin. And other people were coming in, just as you all were just coming in. And then he said to them, beckoning, come on back here with us niggas.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "291.041288,313.989277"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, no he didnt.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "314.269016"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So no, thats documented in this book, Shaping Memories. Because I wanted people to understand what we had to go through as women in academe.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "315.779611,332.992934"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So no, thats documented in this book, Shaping Memories, because I wanted people to understand what we had to go through as women in academe. So that was my first week at James Madison University. Now, obviously, things have gotten better. But that was my introduction, and why, why was this man allowed to do this? And do you know, how do you think people responded? I didnt think I was gonna get off on this, but how do you think people responded? ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "333.972023,356.826765"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They were quiet.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "357.199751,358.234788"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They were quiet. No one said a word.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "358.234788,362.598729"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cause you didnt, thats right.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "362.608054,364.510285"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What? No one said a word. Well, when he said that, to me, my stomach started churning. And I said, if I dont respond immediately to this, that I did not hold my head up in this faculty or at this school. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "364.650155,384.996563"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I cornered him, I stood up, the head of the department, nobody said a thing. And I said to him... If you say anything like that to me again, in my presence, youre not only gonna need a lawyer, youre gonna need a doctor.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "385.602666,406.900189"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I meant it. Because I was really, really sure that it was going to be physical. If I had to deal with this again. And the thing that made me angry, I have been, since Ive been a teacher, and I have been a teacher since 1971, I have been a fierce advocate for my students.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "408.457407,432.132719"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I thought, if this man who is honored by his colleagues, has this kind of latitude with a colleague, someone whos a peer, what is he doing inside the classroom with students? So that, it made me fighting, fighting mad.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "432.291238,453.458216"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And Becky asked, Who are the Wintergreen Women? Well, the reason that we started, that I started Wintergreen, was I knew that if I faced that, coming up, into James Madison University, that Nikki Giovanni, even though certainly her reputation far exceeded mine,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "453.803229,479.362122"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "but human nature is human nature, she was going to Virginia Tech. So I said, let me gather around her some women who will have her back for the few years, I thought she might be there two years. For the few years that she will be at Virginia Tech.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "479.660511,497.908871"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I called Daryl Dance. Your mentor. I called, and Daryl Dance called Opal Moore.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "498.878635,512.87495"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "No she didnt.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "512.921573,513.611598"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Who did? Who did it?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "513.71417,515.540587"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I received a letter from you.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "516.418321,518.507045"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You received a letter from me, Thats right, all right, Yeah. Well, how do we get to the or-, but this is what Im talking about. The subtext. You teach what you know. And so this is the reason for this particular workshop. I want you all as teachers to use Furious Flower as a resource. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "518.507045,542.807109"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You know and I just started thinking this looks like an Amway. This looks like an Amway for um, What do you call it, um, a Tupperware you know, Im giving you the pitch. But so how does this testifying come into play? ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "542.807109,561.848065"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Im going to walk you through some of the major events and the history of Furious Flower. And I want you to put up your hand if you have anything to add. If you somehow had some connection with this activity, I want you to testify to that.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "563.395958,584.786728"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And, and so that you will go out and you will be ambassadors for Furious  Flower. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "585.066468,595.081153"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Already, people are telling me that Furious Flower has not only taken on the, I suppose the heft of an institution, but its taken on the aura of a kind of movement. We sort of started something,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "595.174399,618.299556"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and you all are part of it, youre part of that history now. You you, you are a part of Furious Flower. And we want to start in 1994. The first Furious Flower conference.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "618.299556,638.944353"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What is interesting, just recently, we have digitized the entire conference. So you can go, and you can go to any one of these thumbnails. And you can see what happened at that historic conference.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "640.324403,659.999436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I had the foresight to have videotaped almost every session. And you can see Ive changed a little bit, alright, hands different. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "660.335124,673.855881"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The dimples still there.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "673.87453,674.862944"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dimples are still there, yeah, all right. Lets see if we can, lets see who we might wanna hear a little bit of.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "674.862944,686.723911"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lets hear Ethelbert.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "686.723911,688.271805"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A little Ethelbert? Wheres Ethelbert?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "688.532895,690.975956"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "To the right there.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "692.188162,693.232524"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Alright. Alright, good. Lets click on it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "693.232524"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You were listening to Sonia, huh?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "735.715675,738.065489"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "All right well, we just dont want technical difficulties. No matter. But, so, if you go online, you will be able to hear Ethelbert, and Sonia, and all of the 35 poets who were part of that particular conference. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "748.639654,772.0632"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I remember that conference, I walked around with my big sign, I asked somebody for one of the signs and I finally got it, and I walked to every single person, including you, and Sonia Sanchez and asked you all to sign my poster, I mean I was asking all the poets, and um, I still have that poster. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "774.851273,794.572929"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That poster, you still have that poster, that poster is worth a lot of money. Yeah. It was, now, um, who knows why we did the Furious Flower conference in the first place. Does anyone have a knowledge of that?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "794.572929,813.641859"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[inaudible]... to celebrate Gwen Brooks?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "814.663904,817.492943"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yes, thats exactly right. In 1993, a year before the conference materialized. Gwen Brooks came to Virginia. And this was her second visit to Virginia during my time here,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "817.492943,834.137462"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I always said, from the time that I went to Roosevelt University to teach, that I would invite Gwendolyn Brooks to every school that I taught at. And I did that because, when I got to Roosevelt University in Chicago, my very first teaching gig,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "834.17476,856.376776"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "one of my colleagues told me that, you know, we could have had Gwendolyn Brooks here. But the faculty turned her down. And I said, What?  ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "856.843009,868.554782"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This was in 1971. I am green, out of the University of Chicago with a Masters degree. Gwendolyn Brooks, in 1950, when I was four years old, had gotten a Pulitzer Prize for poetry... and she couldnt teach at Roosevelt University?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "871.818413,895.409803"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You have to know the story of how we have broken down walls. So you can appreciate where you are now, but also have the honor to go on and get in there and fight for your students. So she came to James Madison in 1986. And she came back to the area in 1993. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "896.351593,923.104043"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "When she came back, I said, to Gwen, I said, Gwen, youre gonna have to come over to JMU, again, and speak, she says, Well, I was just here. She said, I wont come this year, but Ill come next year. So I had a whole year to plan for her reading, which was going to be just the reading.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "923.225263,944.476164"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I started telling people, you know, Gwendolyn Brooks is coming to campus, would you like to come and be there with her while she reads? And they said, you know, we not only want to be there, but we want to honor her by reading with her. And so what started with one reader, ended up being, what, 35 invited poets, and then another 50 or so just came.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "945.12889,970.100329"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And so that was 1994. So Furious Flower, gets its title from Gwendolyn Brooks poem, Second Sermon on the Warpland. And the lines: The time cracks into furious flower. Lifts its face all unashamed. And sways in wicked grace.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "971.489704,994.922574"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So by the time I started trying to come up with a title for this gathering, it was now about more than Gwendolyn Brooks. Furious Flower was Gwendolyn Brooks. But it was also the period that she was a part of. It was the period from 1950, forward. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "995.248937,1019.912663"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And so these were the poets that came out in large numbers to help honor her. And it was just a magnificent, magnificent conf- I never expected to do it again.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1020.509441,1036.398662"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In fact, I called my friend Sonia, and I said, Sonia I have all of these people talking about, (after it was over), talking about you have to do that again, that was wonderful. And that was about three or four years in. And so Sonia said to me, she said, Well you know, something this big, you cant do it every five years. You gotta wait, you remember?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1036.641103,1058.777846"
+        }
+      }
+    }
+  ]
+}
