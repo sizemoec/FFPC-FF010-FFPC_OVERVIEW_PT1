@@ -1,0 +1,176 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem.json",
+  "type": "AnnotationPage",
+  "label": "Transcription, Poem",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We have danced, we have loved we have built our coffins in the eyes of storms. These winds and waters rise and wane. Our truths are simple ones: We wait on a god Who holds in his left fist Pain In his right palm, Goodness.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3211.238578,3229.579779"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We batten our eyes and hum to the below- sea- level-blues. This land is ours bought and paid In our flesh and loves rended, In our rents, paid cash-- We hold these beauties to be self evident As red beans and rice and lottery dreams, As beaded memories.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3229.579779,3247.074463"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Settle down now and wait on The Lord! Scheduled to arrive in four more days by helicopter, those chopping blades Troubling, troubling the waters below Coming, just as soooon, soon as He sniffs the smoke signals From NPR CBS, NBC, ABC FOX and The nattering blogosphere nabobs. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3247.074463,3268.30793"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But that 2nd coming will be too late. The bells already been rung And Richard Baker says the jig is up. Yep, say the corpse of engineers, the partys over. Their levee broke a tooth and through the gap spat everything we bought With our blood, with our Blues, with our Satchelmouth laughter, with our black face shrugs and softshoe, with our Buffalo Soldiers and salty tears For Negro Heroes, for our back of the bus, our sitting downs, our snacks at the Woolworths, our Martins, Tuskeegees and lynchability.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3268.30793,3302.215637"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Once more we march leave home and hearth. Theres some deep memory here-- Once more our shores shrink from hungry view, our dead swallowed up by the waters.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3302.215637,3314.936906"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But just you wait wait on the Lord! He is a revelation in the receding flood waters-- FEMA water bottles, photo albums, bald tires, blasted bibles and floating fecal treasures, in refrigerators curb leaning like broken teeth of a battered goddess their mouths full of dirty secrets, taped shut.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3314.936906,3338.756953"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But every violence speaks its own language. Listen to the icebox, leaning at the corner of Desire and Abundance talking back like the stone tablets of Moses or a Rosetta stone, or a Rosetta rock, its graffiti message gives a single commandment from the Creator of All New Disasters: Caveat, Do Not enter.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3338.756953,3362.953229"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, Listen! the king of the Zulus is Not dead. He is trumpeting a line to Congo Square from the lower 9. This time we know the names of the lost. We know the land of our mothers. We enter. Against all warning. We remain. Inconstant as memory. Powerful As a storm.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3362.953229,3387.196534"
+        }
+      }
+    }
+  ]
+}
