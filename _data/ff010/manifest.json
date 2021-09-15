@@ -36,6 +36,12 @@
             "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/speaker.json",
             "label": "Speaker"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/Transcription.json",
+            "label": "Transcription"
+          }
         ],
         "items": [
           {
