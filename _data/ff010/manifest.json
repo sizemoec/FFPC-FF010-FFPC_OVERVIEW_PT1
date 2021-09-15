@@ -22,7 +22,7 @@
       {
         "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 3594,
+        "duration": 3599,
         "annotations": [
           
           {
@@ -56,7 +56,7 @@
                   "id": "https://dl.dropboxusercontent.com/s/0pzzk1cgl77a8l2/FF010.mp3?raw=1",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 3594
+                    "duration": 3599
                 },
                 "target": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas"
               }
