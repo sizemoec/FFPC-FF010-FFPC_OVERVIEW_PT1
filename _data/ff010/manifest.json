@@ -23,6 +23,26 @@
         "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3599,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--song.json",
+            "label": "Transcription, Song"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription--poem.json",
+            "label": "Transcription, Poem"
+          }
+        ],
         "items": [
           {
             "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/paintings",
