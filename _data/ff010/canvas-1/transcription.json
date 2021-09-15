@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I dont want to go after Becky...",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2976.776894,2978.164242"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mine was just based on, Its an ekphrastic poem, and it was just based on an image, a painted image of a girl walking in the clay. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2982.349798,2997.587103"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And at the time that I wrote the poem I was a little bit disturbed that everybody was talking about Katrina in terms of New Orleans, but it affected more than just New Orleans. And I thought that some people were forgotten. So when I saw this painting of the little girl dancing in roses, and the red clay underneath I felt compelled to comment.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF010-FFPC_OVERVIEW_PT1/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2997.775218,3022.86504"
+        }
+      }
+    }
+  ]
+}
